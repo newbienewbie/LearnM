@@ -4,3 +4,4 @@ appsettings.Development.json
 appsettings.Production.json
 paket-files/
 .vs/
+LearnM_Rust/LearnM1/target/
