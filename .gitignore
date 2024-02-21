@@ -5,3 +5,6 @@ appsettings.Production.json
 paket-files/
 .vs/
 LearnM_Rust/LearnM1/target/
+
+LearnM_Python/.venv/
+LearnM_Python/__pycache__
